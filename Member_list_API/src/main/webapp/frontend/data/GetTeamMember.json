@@ -1,0 +1,50 @@
+{
+    "team_member_data":[
+        {
+            "id":"TM1",
+            "team_member_name":"smit",
+            "joining_date":"2 Jan 2023",
+            "login_id":"smit.shah@gmail.com",
+            "employee_type":"Intern",
+            "role":"Full Stack Developer"
+    
+        },
+        {
+            "id":"TM2",
+            "team_member_name":"harsh",
+            "joining_date":"2 Feb 2023",
+            "login_id":"harsh@gmail.com",
+            "employee_type":"Intern",
+            "role":"Full Stack Developer"
+    
+        },
+        {
+            "id":"TM3",
+            "team_member_name":"rahul loware",
+            "joining_date":"2 Apr 2023",
+            "login_id":"rahul@gmail.com",
+            "employee_type":"Full Time",
+            "role":"Product owner "
+    
+        },
+        {
+            "id":"TM4",
+            "team_member_name":"vinil",
+            "joining_date":"2 Jan 2022",
+            "login_id":"vinil@gmail.com",
+            "employee_type":"Full Time",
+            "role":"Full Stack Developer"
+    
+        }
+        ,{
+            "id":"TM5",
+            "team_member_name":"Jeshu",
+            "joining_date":"2 Jan 2023",
+            "login_id":"jeshu@gmail.com",
+            "employee_type":"Intern",
+            "role":"Backend Developer"
+    
+        }
+        
+     ]
+}

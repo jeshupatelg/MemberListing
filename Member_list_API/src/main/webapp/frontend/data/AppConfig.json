@@ -1,0 +1,9 @@
+{
+    "URLs": {
+        "GET_TEAM_MEMBER_DATA":"data/GetTeamMember.json"
+    },
+    "helpURL": "Screen help file URL",
+    "userData": "logged In user data",
+    "sourceType": "SE",
+    "customCSSFiles": []
+}
